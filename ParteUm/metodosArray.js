@@ -14,3 +14,4 @@ techs.splice(1, 3)
 // encontrar a posição de um elemento no array
 let positionTechs = techs.indexOf('css')
 techs.splice(positionTechs, 1)
+
