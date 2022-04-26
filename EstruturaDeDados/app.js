@@ -65,4 +65,3 @@ console.log(students[0])
  * Linear
  * O Primeiro a entrar na fila é o primeiro a sair
 */
-
